@@ -6,3 +6,4 @@ function writeCards(array, name) {
   }
   return newArray;
 }
+
