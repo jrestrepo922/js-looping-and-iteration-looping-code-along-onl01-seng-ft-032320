@@ -7,3 +7,14 @@ function writeCards(array, name) {
   return newArray;
 }
 
+
+
+
+function countDown(num) {
+  let i = num
+  
+  while (num > 0) {
+    console.log(num)
+    num -= 1;
+  }
+}
