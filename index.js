@@ -2,6 +2,6 @@
 function writeCards(array, name) {
   let newArray = [];
   for(let i = 0; i < array.length; i++){
-    console.log(``)
+    newArray.push(``)
   }
 }
